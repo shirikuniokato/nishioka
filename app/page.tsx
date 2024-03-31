@@ -1,9 +1,6 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
-export default function Home() {
+export default function Page() {
   return (
-    <main className={styles.main}>
+    <main>
       <h3>西岡について</h3>
       <p>作成中です</p>
     </main>
